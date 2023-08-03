@@ -18,5 +18,5 @@ function submitHandler(event) {
 
     console.log(profile);
   }
-  event.currentTarget.reset();
+    event.currentTarget.reset();
 }
